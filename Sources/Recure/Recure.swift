@@ -3,7 +3,7 @@ import UIKit
 
 public class Recure {
     private let projectApiKey: String
-    private let eventHandlerUrl = "https://4flaje49e0.execute-api.eu-central-1.amazonaws.com/event_handler"
+    private let eventHandlerUrl = "https://25vf084zxh.execute-api.eu-central-1.amazonaws.com"
 
     public init(projectApiKey: String) {
         self.projectApiKey = projectApiKey
